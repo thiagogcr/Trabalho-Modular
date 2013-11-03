@@ -1,0 +1,4 @@
+c:\Users\Thiago\documents\visual studio 2012\Projects\RotasWF\Framework\bin\Debug\Framework.dll
+c:\Users\Thiago\documents\visual studio 2012\Projects\RotasWF\Framework\bin\Debug\Framework.pdb
+c:\Users\Thiago\documents\visual studio 2012\Projects\RotasWF\Framework\obj\Debug\Framework.dll
+c:\Users\Thiago\documents\visual studio 2012\Projects\RotasWF\Framework\obj\Debug\Framework.pdb

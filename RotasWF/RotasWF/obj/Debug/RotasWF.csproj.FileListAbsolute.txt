@@ -1,0 +1,16 @@
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\RotasWF.exe.config
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\RotasWF.exe
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\RotasWF.pdb
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.csprojResolveAssemblyReference.cache
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.Properties.Resources.resources
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.csproj.GenerateResource.Cache
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.exe
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.pdb
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.Login.resources
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.FormPrincipal.resources
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.Pagamentos.resources
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\EntityFramework.dll
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\EntityFramework.xml
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\Framework.dll
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\Framework.pdb
+c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.newPagamento.resources
