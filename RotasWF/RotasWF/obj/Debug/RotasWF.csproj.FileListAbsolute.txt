@@ -14,3 +14,19 @@ c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\
 c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\Framework.dll
 c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\bin\Debug\Framework.pdb
 c:\users\thiago\documents\visual studio 2012\Projects\RotasWF\RotasWF\obj\Debug\RotasWF.newPagamento.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\RotasWF.exe.config
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.exe
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.pdb
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\RotasWF.exe
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\RotasWF.pdb
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\EntityFramework.dll
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\Framework.dll
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\Framework.pdb
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\bin\Debug\EntityFramework.xml
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.FormPrincipal.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Login.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.newPagamento.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Pagamentos.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Properties.Resources.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.csproj.GenerateResource.Cache

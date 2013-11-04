@@ -92,6 +92,7 @@
             // 
             // Salvar
             // 
+            this.Salvar.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.Salvar.Location = new System.Drawing.Point(197, 88);
             this.Salvar.Name = "Salvar";
             this.Salvar.Size = new System.Drawing.Size(75, 23);
@@ -102,6 +103,7 @@
             // 
             // button3
             // 
+            this.button3.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button3.Location = new System.Drawing.Point(116, 88);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(75, 23);
@@ -112,6 +114,7 @@
             // 
             // button4
             // 
+            this.button4.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.button4.Location = new System.Drawing.Point(35, 88);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(75, 23);

@@ -58,7 +58,6 @@ namespace RotasWF
                 Pagamentos.lista.Remove(isNew[0]);
             }
             Pagamentos.lista.Add(pg);
-            pgFrm.Show();
             this.Close();
         }
 

@@ -47,10 +47,16 @@ namespace RotasWF
             {
                 id = (int)dataGridView1.CurrentRow.Cells[0].RowIndex;
             }
-            catch { }
-            this.Hide();
-            newPagamento np = new newPagamento(id);
-            np.Show();
+            catch {
+                MessageBox.Show("Não existem itens para ser editados");
+                return;
+            }
+            if (id >= 0)
+            {
+                this.Hide();
+                newPagamento np = new newPagamento(id);
+                np.Show();
+            }
         }
 
         private void button2_Click(object sender, EventArgs e)

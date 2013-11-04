@@ -19,13 +19,7 @@ namespace RotasWF
             Application.SetCompatibleTextRenderingDefault(false);
             Login login = new Login();
             if (login.DialogResult == DialogResult.OK)
-            {
-
-                // Sim... Então continua a execução da aplicação
-
                 Application.Run(new FormPrincipal());
-
-            }
         }
     }
 }
