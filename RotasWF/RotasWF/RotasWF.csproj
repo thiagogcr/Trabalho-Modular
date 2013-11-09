@@ -51,6 +51,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aramazem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aramazem.Designer.cs">
+      <DependentUpon>Aramazem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newRota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newRota.Designer.cs">
+      <DependentUpon>newRota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rotas.Designer.cs">
+      <DependentUpon>Rotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newArmazem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newArmazem.Designer.cs">
+      <DependentUpon>newArmazem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="newMotorista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="newMotorista.Designer.cs">
+      <DependentUpon>newMotorista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Motoristas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Motoristas.Designer.cs">
+      <DependentUpon>Motoristas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +113,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Aramazem.resx">
+      <DependentUpon>Aramazem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newRota.resx">
+      <DependentUpon>newRota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rotas.resx">
+      <DependentUpon>Rotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newArmazem.resx">
+      <DependentUpon>newArmazem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="newMotorista.resx">
+      <DependentUpon>newMotorista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Motoristas.resx">
+      <DependentUpon>Motoristas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormPrincipal.resx">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -99,7 +153,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="packages.config" />
     <None Include="Properties\DataSources\Framework.Pagamento.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

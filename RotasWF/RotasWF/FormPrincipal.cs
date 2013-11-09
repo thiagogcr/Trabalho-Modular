@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace RotasWF
@@ -36,6 +29,24 @@ namespace RotasWF
         private void sairToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Motoristas mt = new Motoristas();
+            mt.ShowDialog();
+        }
+
+        private void alterarToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            Armazem ar = new Armazem();
+            ar.ShowDialog();
+        }
+
+        private void rotaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Rotas form = new Rotas();
+            form.ShowDialog();
         }
 
     }

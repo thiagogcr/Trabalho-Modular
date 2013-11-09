@@ -30,3 +30,9 @@ C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\Rota
 C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Pagamentos.resources
 C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Properties.Resources.resources
 C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.csproj.GenerateResource.Cache
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Motoristas.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.newMotorista.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Armazem.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.newArmazem.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.newRota.resources
+C:\Users\Thiago\Documents\GitHub\Trabalho-Modular\RotasWF\RotasWF\obj\Debug\RotasWF.Rotas.resources

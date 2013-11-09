@@ -69,14 +69,15 @@
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(118, 68);
             this.toolStripMenuItem1.Text = "Motorista";
+            this.toolStripMenuItem1.Click += new System.EventHandler(this.toolStripMenuItem1_Click);
             // 
             // Parceiros
             // 
             this.Parceiros.Image = ((System.Drawing.Image)(resources.GetObject("Parceiros.Image")));
             this.Parceiros.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.Parceiros.Name = "Parceiros";
-            this.Parceiros.Size = new System.Drawing.Size(117, 68);
-            this.Parceiros.Text = "Pesquisar";
+            this.Parceiros.Size = new System.Drawing.Size(115, 68);
+            this.Parceiros.Text = "Parceiros";
             // 
             // alterarToolStripMenuItem1
             // 
@@ -85,6 +86,7 @@
             this.alterarToolStripMenuItem1.Name = "alterarToolStripMenuItem1";
             this.alterarToolStripMenuItem1.Size = new System.Drawing.Size(135, 68);
             this.alterarToolStripMenuItem1.Text = "Armazéns";
+            this.alterarToolStripMenuItem1.Click += new System.EventHandler(this.alterarToolStripMenuItem1_Click);
             // 
             // rotaToolStripMenuItem
             // 
@@ -93,6 +95,7 @@
             this.rotaToolStripMenuItem.Name = "rotaToolStripMenuItem";
             this.rotaToolStripMenuItem.Size = new System.Drawing.Size(91, 68);
             this.rotaToolStripMenuItem.Text = "Rota";
+            this.rotaToolStripMenuItem.Click += new System.EventHandler(this.rotaToolStripMenuItem_Click);
             // 
             // pagamentosToolStripMenuItem
             // 
